@@ -425,7 +425,7 @@ export function GlobeDemo() {
           >
             <div className='text-center lg:pl-16'>
               <h1 className='text-4xl font-bold tracking-tight  sm:text-6xl mt-8 md:mt-0'>
-                Buid form in seconds
+                Build form in seconds
               </h1>
               <p className='mt-6 text-lg leading-8 '>
                 Powered by react hook form, Shadcn Ui and Zod
